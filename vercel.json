@@ -3,6 +3,10 @@
     {
       "source": "/ios",
       "destination": "/api/ios"
+    },
+    {
+      "source": "/android",
+      "destination": "/api/android"
     }
   ]
 }
