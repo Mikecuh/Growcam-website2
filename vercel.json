@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/ios",
+      "destination": "/api/ios"
+    }
+  ]
+}
