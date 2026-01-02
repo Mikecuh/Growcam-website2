@@ -1,12 +1,13 @@
 {
   "rewrites": [
     {
-      "source": "/ios",
-      "destination": "/api/ios"
+      "source": "/growcam",
+      "destination": "/api/growcam"
     },
     {
-      "source": "/android",
-      "destination": "/api/android"
+      "source": "/growcam-android",
+      "destination": "/api/growcam-android"
     }
   ]
 }
+
